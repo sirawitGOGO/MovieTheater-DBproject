@@ -1,0 +1,31 @@
+{
+    "movies" : [
+        {
+            "movie_id":1,
+            "title":"Avenger",
+            "date":"24/04/2024",
+            "cate":"Action",
+            "time":120,
+            "poster": "https://images.squarespace-cdn.com/content/v1/5bfdc74875f9ee194f3e0add/1597704181638-5P299V1BMNMZZSYN36XF/Snow+White+Huntsman+poster.png",
+            "trailer" : "https://www.youtube.com/embed/eOrNdBpGMv8?si=a9-NvGDnYY0SX_lw"
+        },
+        {
+            "movie_id":2,
+            "title":"Avenger",
+            "date":"24/04/2024",
+            "cate":"Action",
+            "time":120,
+            "poster": "https://images.squarespace-cdn.com/content/v1/5bfdc74875f9ee194f3e0add/1597704181638-5P299V1BMNMZZSYN36XF/Snow+White+Huntsman+poster.png",
+            "trailer" : "https://www.youtube.com/embed/eOrNdBpGMv8?si=a9-NvGDnYY0SX_lw"
+        },
+        {
+            "movie_id":3,
+            "title":"Avenger",
+            "date":"24/04/2024",
+            "cate":"Action",
+            "time":120,
+            "poster": "https://images.squarespace-cdn.com/content/v1/5bfdc74875f9ee194f3e0add/1597704181638-5P299V1BMNMZZSYN36XF/Snow+White+Huntsman+poster.png",
+            "trailer" : "https://www.youtube.com/embed/eOrNdBpGMv8?si=a9-NvGDnYY0SX_lw"
+        }
+    ]
+}

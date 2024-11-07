@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Noto+Sans+Thai:wght@100..900&display=swap');
+
+*{
+  box-sizing: border-box;
+  font-family: "Noto Sans Thai", sans-serif;
+}
+html{
+  background: linear-gradient(107.56deg, #220712 0%, #0A0722 50%, #071222 100%);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+body{
+  margin: 0;
+}
