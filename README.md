@@ -1,5 +1,5 @@
 # MovieTheater-DBproject
-Movie Theater for booking seat theater using <b>React</b> <b>Tailwind</b>
+Platform for booking seat theater using <b>React</b> <b>Tailwind</b>
 <h1 align="left">Member of project:</h1>
 <ul>
   <li>65070501008 Jiraporn Wangkumharn</li>
